@@ -1,5 +1,7 @@
 # Technical_Docs_and_Ebooks 
 
+Use this repo to access useful docs and learning materials related to programming. 
+
              ________________________________________________
             /                                                \
            |    _________________________________________     |
@@ -28,8 +30,4 @@
  _-'.-.-.-.-.-. .---.-. .-------------------------. .-.---. .---.-.-.-.`-_
 :-------------------------------------------------------------------------:
 `---._.-------------------------------------------------------------._.---'
-                        
 
-
-
-Use this repo to access useful docs and learning materials related to programming. 
