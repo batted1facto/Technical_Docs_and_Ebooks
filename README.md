@@ -1,4 +1,4 @@
-# Technical_Docs_and_Ebooks #
+# Technical_Docs_and_Ebooks 
 
              ________________________________________________
             /                                                \
@@ -28,8 +28,8 @@
  _-'.-.-.-.-.-. .---.-. .-------------------------. .-.---. .---.-.-.-.`-_
 :-------------------------------------------------------------------------:
 `---._.-------------------------------------------------------------._.---'
-                              - Darcy Batterham - Love -
+                        
 
-# Clone of my personal docs repo #
+
 
 Use this repo to access useful docs and learning materials related to programming. 
