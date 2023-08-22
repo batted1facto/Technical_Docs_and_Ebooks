@@ -17,7 +17,7 @@ Use this repo to access useful docs and learning materials related to programmin
   | | -       | |
   | |         | |
   | |_________| |________________________
-  \=____________/   DBL                  )
+  \=____________/                        )
   / """"""""""" \                       /
  / ::::::::::::: \                  =D-'
 (_________________)
